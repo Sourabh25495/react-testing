@@ -32,6 +32,6 @@
     ]
   },
   "devDependencies": {
-    "jest": "^26.0.0"
+    "jest": "24.9.0"
   }
 }
